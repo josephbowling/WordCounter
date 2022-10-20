@@ -1,0 +1,4 @@
+computer: 3
+class: 2
+student: 1
+teacher: 1

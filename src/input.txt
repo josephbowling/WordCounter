@@ -1,0 +1,7 @@
+computer
+class
+student
+teacher
+class
+computer
+computer
